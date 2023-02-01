@@ -1,5 +1,6 @@
 ### Hi, I'm Wen, I love programming. 👋
 
+this is my blog: https://ryoumon.github.io/
 <!--
 **RyouMon/RyouMon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
