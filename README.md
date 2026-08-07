@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 ![stars](https://img.shields.io/github/stars/RyouMon?style=social) ![followers](https://img.shields.io/github/followers/RyouMon?color=%23ff4a4a&logoColor=%23fff&style=plastic)
 
+Welcome to my blog: [ryoumon.github.io](https://ryoumon.github.io)
 
 ![RyouMon's github stats](https://github-readme-stats.vercel.app/api?username=RyouMon&show_icons=true&theme=radical)
